@@ -1,2 +1,2 @@
-# Splashy-Token-Checker
+# Splashy Token Checker
 Discord Token Checker
